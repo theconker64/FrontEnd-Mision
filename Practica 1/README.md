@@ -18,7 +18,7 @@ Descripción: A continuación podremos ver un fragmento de los pasos incluidos e
 ### 2.-Buyer Persona
 ![personita](https://user-images.githubusercontent.com/73414537/156704929-ccbadf76-2a40-41fb-8e4e-a26a1a6a33ba.png)
 
-### 3.-Target
+### 3.-Público Objetivo:
 ![Target Audience Template](https://user-images.githubusercontent.com/73414537/156704957-44fdf167-110b-435b-9472-a27d88bf1ce2.jpg)
 
 
