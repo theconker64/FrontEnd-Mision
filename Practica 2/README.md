@@ -11,7 +11,9 @@ Durante este proyecto se realizará un prototipo de página web sobre una pastel
 - Galería de pasteles, Nombres y descripción **(Lorem text)**
 <img src="https://user-images.githubusercontent.com/73414537/156958266-0c09a0d3-f87f-4634-93e0-9c84e50f3c9c.gif" width="600" height="300">
 
-Maquetación de páginas de cliente de la pastelería.
+- Apartado de Opiniones
+<img src="https://user-images.githubusercontent.com/73414537/156958644-d462f5e8-bec0-485f-90ec-84c5d685aea3.png" width="600" height="300">
+
 Maquetación de páginas del pastelero.
 Bonus: En caso de que te quede corto el ejercicio siguele con esto!
 Bonus de estilos (Intro a CSS)
