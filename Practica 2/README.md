@@ -14,7 +14,9 @@ Durante este proyecto se realizará un prototipo de página web sobre una pastel
 <img src="https://user-images.githubusercontent.com/73414537/156957092-fd11ea29-25b7-4b51-829a-4efd7baf329b.png" width="350" height="100">
 
 - Galería de pasteles, Nombres y descripción **(Lorem text)**
-<a href="https://launchxpastel.000webhostapp.com/#pasteles"><img src="https://user-images.githubusercontent.com/73414537/156958266-0c09a0d3-f87f-4634-93e0-9c84e50f3c9c.gif" width="600" height="300"></a>
+<a href="https://launchxpastel.000webhostapp.com/#pasteles">
+ <img src="https://user-images.githubusercontent.com/73414537/156958266-0c09a0d3-f87f-4634-93e0-9c84e50f3c9c.gif" width="600" height="300">
+</a>
 
 - Apartado de Opiniones
 <img src="https://user-images.githubusercontent.com/73414537/156958644-d462f5e8-bec0-485f-90ec-84c5d685aea3.png" width="600" height="200">
