@@ -1,5 +1,5 @@
 # Prácticas Primera Semana - LaunchX
-### Prácticas requeridas para la Introdución a FrontEnd #1
+#### Prácticas requeridas para la Introdución a FrontEnd #1
 
 ## Práctica: Abogabot
 Sitio web dedicado en automatizar las demandas de sus clientes a través de una plataforma web llenando un formulario. 
