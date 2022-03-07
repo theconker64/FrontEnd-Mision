@@ -7,8 +7,8 @@ Durante este proyecto se realizará un prototipo de página web sobre una pastel
 
 - Para poder visualizar la página fue subida al siguiente host: https://launchxpastel.000webhostapp.com 
 
-- Favicon de la página:
- <img src="https://user-images.githubusercontent.com/73414537/156961067-53bd1173-a208-4b58-9096-d82e936d7691.png" width="250" height="250">
+- **Favicon** de la página:
+ <img src="https://user-images.githubusercontent.com/73414537/156961067-53bd1173-a208-4b58-9096-d82e936d7691.png" width="100" height="100">
  
 - Nombre de la pastelería: SpaceBke **(Logo)**
 <img src="https://user-images.githubusercontent.com/73414537/156957092-fd11ea29-25b7-4b51-829a-4efd7baf329b.png" width="350" height="100">
