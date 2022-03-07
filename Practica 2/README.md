@@ -1,7 +1,7 @@
 ### Práctica Segunda Semana - LaunchX
 # Prácticas requeridas para la Introdución a FrontEnd #2
 
-## Práctica: Pastelería
+## Práctica: <a href="https://user-images.githubusercontent.com/73414537/156975892-653cdbf0-9af2-404b-99e0-7c6e4127a04e.png">Pastelería</a>
 
 Durante este proyecto se realizará un prototipo de página web sobre una pastelería que tendrá las siguientes caracteristicas:
 
