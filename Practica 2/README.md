@@ -6,7 +6,7 @@
 Durante este proyecto se realizará un prototipo de página web sobre una pastelería que tendrá las siguientes caracteristicas:
 
 - Para poder visualizar la página más fácil fue desplegada en el siguiente host: https://launchxpastel.000webhostapp.com
- <img src="https://user-images.githubusercontent.com/73414537/156961321-172f4f5a-4f25-42ae-92e4-77c608c63427.png" width="600" height="300">
+ <img src="https://user-images.githubusercontent.com/73414537/156961321-172f4f5a-4f25-42ae-92e4-77c608c63427.png" width="400" height="200">
 
 - **Favicon** de la página:
  <img src="https://user-images.githubusercontent.com/73414537/156961067-53bd1173-a208-4b58-9096-d82e936d7691.png" width="100" height="100">
