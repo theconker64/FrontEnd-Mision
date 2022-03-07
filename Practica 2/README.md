@@ -3,8 +3,13 @@
 
 ## Práctica: Pastelería
 
-Durante este proyecto se realizará un prototipo de página web sobre una pastelería que tendrá las siguientes caracteristicas: 
+Durante este proyecto se realizará un prototipo de página web sobre una pastelería que tendrá las siguientes caracteristicas:
 
+- Para poder visualizar la página fue subida al siguiente host: https://launchxpastel.000webhostapp.com 
+
+- Favicon de la página:
+ <img src="https://user-images.githubusercontent.com/73414537/156961067-53bd1173-a208-4b58-9096-d82e936d7691.png" width="250" height="250">
+ 
 - Nombre de la pastelería: SpaceBke **(Logo)**
 <img src="https://user-images.githubusercontent.com/73414537/156957092-fd11ea29-25b7-4b51-829a-4efd7baf329b.png" width="350" height="100">
 
@@ -16,10 +21,3 @@ Durante este proyecto se realizará un prototipo de página web sobre una pastel
 
 - Formulario de pedido
 <img src="https://user-images.githubusercontent.com/73414537/156960221-5f460015-d3e7-4007-937c-fb4fb44416f5.png" width="600" height="400">
-
-
-Maquetación de páginas del pastelero.
-Bonus: En caso de que te quede corto el ejercicio siguele con esto!
-Bonus de estilos (Intro a CSS)
-Bonus de Rutas (Navegación en la página)
-Bonus de despliegue (Montar la página en línea con dominio gratuito)
