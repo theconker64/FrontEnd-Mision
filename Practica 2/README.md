@@ -6,7 +6,7 @@
 Durante este proyecto se realizará un prototipo de página web sobre una pastelería que tendrá las siguientes caracteristicas: 
 
 - Crear marca de la pastelería como un logo y los mensajes que daremos desde la marca.
-<img src="https://user-images.githubusercontent.com/73414537/156957092-fd11ea29-25b7-4b51-829a-4efd7baf329b.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/73414537/156957092-fd11ea29-25b7-4b51-829a-4efd7baf329b.png" width="200" height="100">
 
 Maquetación de páginas de cliente de la pastelería.
 Maquetación de páginas del pastelero.
