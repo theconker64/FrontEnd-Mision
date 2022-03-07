@@ -15,7 +15,7 @@ Durante este proyecto se realizará un prototipo de página web sobre una pastel
 <img src="https://user-images.githubusercontent.com/73414537/156958644-d462f5e8-bec0-485f-90ec-84c5d685aea3.png" width="600" height="200">
 
 - Formulario de pedido
-<img src="https://user-images.githubusercontent.com/73414537/156960221-5f460015-d3e7-4007-937c-fb4fb44416f5.png" width="600" height="200">
+<img src="https://user-images.githubusercontent.com/73414537/156960221-5f460015-d3e7-4007-937c-fb4fb44416f5.png" width="600" height="400">
 
 
 Maquetación de páginas del pastelero.
