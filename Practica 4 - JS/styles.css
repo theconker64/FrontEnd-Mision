@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    animation: scroll 120s linear infinite;
+    /*background: url("https://www.slashgear.com/wp-content/uploads/2021/04/21.jpg");*/
+    background: url("images/dittu.png");
+    color: #eee;
+    min-width: 100%;
+    width: 100%;
+    display: fixed;
+    perspective-origin: 50% 50%;
+}
+
+main{
+    display: flex;
+    position: absolute; 
+    justify-content: center;
+    width: 99%;
+    height: 50%;
+}
+
+input{
+    width: 50%;
+    height: 3rem;
+    color: black;
+    padding-left: 20px;
+    border-radius: 20px;
+    border: 0;
+    margin-right: 2em;
+    font-size: 1.5rem;
+}
+
+.input{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 2rem;
+}
+.search1 {
+    background-color: #bea2ddbb;
+    transition: 1s;
+    font-weight: bold;
+}
+
+.search1:hover {
+    background-color: #bea2ddef;
+    transition: 1s;
+}
+
+.container{
+    width: 600px;
+    min-height: 400px;
+    display: flex; 
+    position: absolute;
+    top: 20px; 
+    align-items: center;
+    justify-content: center;
+    flex-direction: column!important;
+}
+
+.dittoimg{
+    scale: 20px;
+}
+
+.logo {
+margin-bottom: 35px;
+}
+
+
+.all{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+button{
+    background-color: #bea2ddbb;
+    transition: 1s;
+    width: 10rem;
+    height: 3rem;
+    border: 0;
+    border-radius: 60px;
+    font-size: 1.7em;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #bea2ddef;
+    transition: 1s;
+    cursor: pointer;
+}
+
+#pokeImg{
+    width: 35%;
+    transition: 0.5s;
+}
+
+#pokeImg:hover {
+    filter: drop-shadow(-2px 2px 15px rgba(234, 118, 255, 0.7));
+    transition: 0.5s;
+}
+
+#types{
+    text-transform: uppercase;
+}
+h3{
+    font-size: 2rem;
+    text-transform: uppercase;
+}
+
+.textd {
+margin-top: -30px;
+}
+
+#pokeball{
+    width: 1.5rem;
+    height: 1.5rem;
+    filter: invert(1);
+}
+.name{
+    width: 60%;
+    max-width: 20rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.details{
+    width: 80%;
+    display: flex;
+    justify-content: space-evenly;
+    font-weight: bold;
+}
+.category{
+    width: 100%;
+    font-size: 1.3rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.stats{
+    margin-top: 0;
+    width: 55%;
+    background-color: #86729bc7;
+    color: #ffffffef;
+    font-family: 'VT323', monospace;
+    font-weight: bold;
+    padding: 20px 3rem 1rem 3rem;
+    display: absolute;
+    top: 250px;
+    border-radius: 20px;
+    transition: 1s;
+    margin-bottom: 30px;
+}
+
+.stats:hover{
+    background-color: #86729b;
+    transition: 1s;
+}
+
+.progres{
+    margin-bottom: 1rem;
+    margin-top: 1em;
+    width: 20rem;
+    height: 0.7rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 0.5em;
+}
+
+.progres-bg{
+    background-color: rgb(173, 173, 173);
+    width: 100%;
+}
+.value{
+    width: 0%;
+    height: 100%;
+}
+.start{
+    border-radius: 20px 0px 0px 20px;
+}
+.end{
+    border-radius: 0px 20px 20px 0px;
+}
+
+
+
+/*cs */
+
+  
+  @keyframes scroll {
+     100%{
+      background-position:0px -3000px;
+    }
+  }
+  
+  
+  @media (min-width: 670px) {
+    .title {
+      font-size: 5rem;
+    }
+  }

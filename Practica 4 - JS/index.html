@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Pokedex</title>
+</head>
+<body>
+    <div class="wrapper">
+    <main>
+        <div class="container">
+            <a href="index.html"><img class="logo" src="images/logo.png" alt="" width="350px"></a>
+            <div class="all">
+                <div class="input">
+                    <input class="search1" type="text" id="pokeName" name="pokeName" placeholder="Pokemon">
+                    <button type="submit" onclick="fetchPokemon()">Search</button>
+                </div>
+                <img class="dittoimg" src="images/ditto.gif" id="pokeImg" alt="" width="200px" >
+                <div class="name">
+                    <h3 id="number"></h3>
+                    <h3 id="name"></h3>
+                </div>
+                <div class="details">
+                    <span class="text">WEIGHT: <span id="weight">-</span></span>
+                    <span class="text">HEIGHT: <span id="height">-</span></span>
+                    <span class="text">TYPE: <span id="types">-</span></span>
+                </div>
+                <div class="category">
+                    <h4 id="category"></h4>
+                </div>
+                <p class="textd" id="description"></p>
+            </div>
+            <div class="stats">
+                <span>Attack</span>
+                <div class="progres">
+                    <div class="progres-bg start">
+                        <div class="value start" id="attack_1">
+
+                        </div>
+                    </div>
+                    <div class="progres-bg">
+                        <div class="value" id="attack_2">
+
+                        </div>
+                    </div>
+                    <div class="progres-bg end">
+                        <div class="value end" id="attack_3">
+
+                        </div>
+                    </div>
+                </div>
+                <span>Defense</span>
+                <div class="progres">
+                    <div class="progres-bg start">
+                        <div class="value start" id="defense_1">
+
+                        </div>
+                    </div>
+                    <div class="progres-bg">
+                        <div class="value" id="defense_2">
+
+                        </div>
+                    </div>
+                    <div class="progres-bg end">
+                        <div class="value end" id="defense_3">
+
+                        </div>
+                    </div>
+                </div>
+                <span>HP</span>
+                <div class="progres">
+                    <div class="progres-bg start">
+                        <div class="value start" id="hp_1">
+
+                        </div>
+                    </div>
+                    <div class="progres-bg">
+                        <div class="value" id="hp_2">
+
+                        </div>
+                    </div>
+                    <div class="progres-bg end">
+                        <div class="value end" id="hp_3">
+
+                        </div>
+                    </div>
+                </div>
+    </main>
+    <script src="pokedex.js"></script>
+</div>
+</body>
+</html>
